@@ -1,11 +1,11 @@
 CONTRACTS DETAILS in brief..
 
 
-Smart Contract Name - RealmsOfEthernity
-Type                - ERC20
-Contract Address    - 0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F
-Source Code         - https://polygonscan.com/address/0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F#code
-Description         - Smart Contract for the RETH token
+Smart Contract Name - RealmsOfEthernity // 
+Type                - ERC20 // 
+Contract Address    - 0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F // 
+Source Code         - https://polygonscan.com/address/0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F#code // 
+Description         - Smart Contract for the RETH token // 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
