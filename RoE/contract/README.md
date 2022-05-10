@@ -1,4 +1,4 @@
-CONTRACTS DETAILS in brief..
+** CONTRACTS DETAILS in brief.. **
 
 
 Smart Contract Name - RealmsOfEthernity // 
