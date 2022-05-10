@@ -1,4 +1,4 @@
-# DIG_PROJECTS LIST
+# DIG PROJECTS LIST
 
 1. Stackcoin
 2. Luckymint
