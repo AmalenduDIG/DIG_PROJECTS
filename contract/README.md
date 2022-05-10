@@ -9,7 +9,7 @@ Description         - Smart Contract for the KRL Token
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Contract Name    - Racers // 
-Type             - ERC721 //  
+Type             - ERC721 // 
 Contract Address - 0xc96D83080F535c255771d456E2f59AB55758599f // 
 Source Code      - https://polygonscan.com/address/0xc96d83080f535c255771d456e2f59ab55758599f#code // 
 Description      - Smart Contract for the Racers NFT Token
