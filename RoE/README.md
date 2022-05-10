@@ -36,7 +36,7 @@ The **yield of RoE** is shared with the **community** , and will own your digita
     - RoE digital assets will live on **Polygon** , allowing for **gas-free NFT minting and trading** at scale with **near-to-instant trade confirmation**.
     - This creates a massively _ **improved user experience and enables the high volume trading of low cost assets** __, a key feature of RoE._
 
-# **WHAT IS REALMS OF ETHERNITY?**
+**WHAT IS REALMS OF ETHERNITY?**
 
 Imagine a World of Warcraft-inspired open world, now **built with blockchain technology** where **players can truly own their inventory** and **earn real cash** from their gaming experience… 
 Inside Realms of Ethernity, **players can interact with the game** just like any other classic MMORPGs, e.g explore dungeons, **kill monsters for rewards or battle with other** players…
