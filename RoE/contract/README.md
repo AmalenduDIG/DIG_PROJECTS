@@ -21,6 +21,6 @@ Contract Name     - SwappableRETH //
 Type              - ERC20 //
 Contract Address  - 0x7647D002d25ec55cFB990c8b9eded09a1A16DB63 //
 Source Code       - https://polygonscan.com/address/0x7647d002d25ec55cfb990c8b9eded09a1a16db63#code //
-Description       - Smart Contract for the sRETH //
+Description       - Smart Contract for the sRETH
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
