@@ -1,7 +1,7 @@
+
 **BMN CONTRACTS in brief**
 
 
-**BMN CONTRACTS in brief**
 
 Smart Contract Name   - BlueMonsterCoin // 
 Type                  - ERC20 // 
